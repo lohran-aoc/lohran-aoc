@@ -1,16 +1,112 @@
-## Hi there 👋
 
-<!--
-**lohran-aoc/lohran-aoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Olá, eu sou o Lohran Cabral! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Desenvolvedor em formação | Java Backend | Tecnologia & Inovação
+
+*Transformando ideias em soluções, uma linha de código por vez.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lohran-aoc)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desenvolvimento backend Java** e interesse em construir aplicações que resolvam problemas reais.
+
+Atualmente, atuo como **Estagiário de Suporte de TI na Regenera Rio (Grupo Aegea)**, adquirindo experiência com ambientes corporativos, infraestrutura, atendimento técnico e resolução de problemas.
+
+Minha trajetória começou na área química e farmacêutica, onde desenvolvi uma base sólida em processos, qualidade, análise e organização. Hoje, levo essa experiência para a tecnologia.
+
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+- ☕ Aprofundando meus conhecimentos em Java e POO.
+- 🛠️ Desenvolvendo projetos próprios para meu portfólio.
+- 🚀 Objetivo: atuar como desenvolvedor Backend Java ou Full Stack.
+- 📍 Rio de Janeiro, Brasil.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+### Linguagens e desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css" alt="Java, Python, JavaScript, HTML e CSS"/>
+</p>
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode" alt="Git, GitHub, IntelliJ IDEA e VS Code"/>
+</p>
+
+### 📚 Em meu roadmap de estudos
+
+`Spring Boot` · `SQL e PostgreSQL` · `APIs REST` · `Docker` · `Linux` · `AWS`
+
+---
+
+## 🚀 Projeto em destaque
+
+### 🏟️ Check-in Rubro-Negro
+
+[![Projeto](https://img.shields.io/badge/Ver_projeto_no_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/lohran-aoc/check-in-rubro-negro)
+
+Uma aplicação Java criada para transformar a experiência dos torcedores em uma coleção de memórias digitais.
+
+**A proposta:** permitir que torcedores registrem sua presença em partidas, construam um histórico pessoal e futuramente conquistem insígnias digitais.
+
+**O que já desenvolvi:**
+- Aplicação executada no console Java.
+- Modelagem de classes e objetos.
+- Registro simulado de check-ins.
+- Prevenção de registros duplicados.
+- Histórico de presenças em memória.
+- Separação de responsabilidades com `CheckInService`.
+
+**Próximos passos:** regras de negócio, testes automatizados, API REST com Spring Boot e persistência em PostgreSQL.
+
+**Stack atual:** `Java` · `POO` · `Git` · `GitHub`
+
+> Um projeto autoral que evolui junto com meu aprendizado em engenharia de software.
+
+---
+
+## 📈 Minha atividade no GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohran-aoc&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohran-aoc&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 O que estou buscando
+
+Meu objetivo é evoluir profissionalmente em **desenvolvimento de software**, com prioridade em Java Backend e abertura para oportunidades Full Stack.
+
+Busco aplicar meus conhecimentos em projetos reais, aprender com profissionais experientes e contribuir para soluções que gerem impacto.
+
+Tenho interesse em oportunidades de **estágio e desenvolvimento júnior**, presenciais, híbridas ou remotas.
+
+---
+
+## 🤝 Vamos nos conectar?
+
+Gosto de trocar experiências sobre tecnologia, desenvolvimento de software e projetos.
+
+📫 Você pode entrar em contato comigo pelo meu perfil do GitHub.
+
+<div align="center">
+
+**Obrigado pela visita! 🚀**
+
+*Aprendendo, construindo e evoluindo constantemente.*
+
+</div>
