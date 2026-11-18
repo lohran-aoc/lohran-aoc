@@ -75,8 +75,6 @@ Uma aplicação Java criada para transformar a experiência dos torcedores em um
 
 ---
 
-## 📈 Minha atividade no GitHub
-
 
 ## 📈 Minha atividade no GitHub
 
