@@ -77,11 +77,40 @@ Uma aplicação Java criada para transformar a experiência dos torcedores em um
 
 ## 📈 Minha atividade no GitHub
 
+
+## 📈 Minha atividade no GitHub
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lohran-aoc&show_icons=true&theme=tokyonight&hide_border=true)
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=lohran-aoc&show_icons=true&theme=tokyonight&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=lohran-aoc&show_icons=true&theme=default&hide_border=true"
+    />
+    <img
+      alt="Estatísticas do GitHub"
+      src="https://github-readme-stats.vercel.app/api?username=lohran-aoc&show_icons=true&theme=default&hide_border=true"
+    />
+  </picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lohran-aoc&layout=compact&theme=tokyonight&hide_border=true)
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lohran-aoc&layout=compact&theme=tokyonight&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=lohran-aoc&layout=compact&theme=default&hide_border=true"
+    />
+    <img
+      alt="Linguagens mais utilizadas"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohran-aoc&layout=compact&theme=default&hide_border=true"
+    />
+  </picture>
 
 </div>
 
